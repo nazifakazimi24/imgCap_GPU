@@ -22,3 +22,4 @@ WORKDIR /imgCap_project
 COPY requirement.txt /imgCap_project/requirement.txt
 
 RUN pip install -r /imgCap_project/requirement.txt
+
