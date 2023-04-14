@@ -1,0 +1,9 @@
+#torch
+pillow
+transformers
+requests
+datasets
+accelerate
+nvidia-ml-py3
+tqdm
+lxml
